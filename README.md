@@ -29,6 +29,20 @@ and continuously expanding my technical knowledge.
 
 ---
 
+## Hackathons & Tech Events
+
+### 🏆 Hackathons
+- **Hackathon Name** — 2026
+  - Team collaboration
+  - Problem-solving
+  - Project development
+
+### 🎓 Tech Education & Events
+- **42Prague — Python Discovery** | September 2026
+  - Python programming
+  - Problem-solving
+  - Intensive programming experience
+
 <div align="center">
 
 `Software Development` · `Problem Solving` · `Continuous Improvement`
