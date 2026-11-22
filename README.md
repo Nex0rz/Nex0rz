@@ -47,4 +47,3 @@ Projects, experiments and applications focused on learning, problem-solving and 
 `Software Development` · `Problem Solving` · `Continuous Learning`
 
 </div>
-```
