@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Nex0rz/Nex0rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hello, I'm a Developer 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Development | Python | C | Linux
+
+</div>
+
+---
+
+## About
+
+Interested in software development, problem-solving
+and building practical solutions through code.
+
+Exploring technologies, developing personal projects
+and continuously expanding my technical knowledge.
+
+## Tech Stack
+
+- **Languages:** Python, C
+- **Tools:** Git, GitHub
+- **Environment:** Linux
+
+## Projects
+
+*Projects, experiments and applications I'm working on.*
+
+---
+
+<div align="center">
+
+`Software Development` · `Problem Solving` · `Continuous Improvement`
+
+</div>
